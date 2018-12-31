@@ -4,7 +4,7 @@ Some highlights of selenium:
   - Can be run in headless mode if needed
   - Since PhantomJS is outdated, Selenium is the new replacement.
 
-Somethings not so nice about selenium:
+Somethings not so nice things about selenium:
   - Was not built for multi-threading.
   - Not many projects written in ruby, which makes research a little bit more intensive.
   - Selenium likes to throw errors, sometimes for no reason.
@@ -229,7 +229,7 @@ $ NODE_ENV=production node app
 # Autorun . sh
 I made an Autorun. sh as it fixes some of the overall issues with Selenium crashing. If Selenium does crash, it will start back right where it left off, which is great if your working on a large network.
 
-You will most likely fine the most updated version of this project directly on my github repo, please pull from there. For quick reference I have attached the code below:
+You will most likely find the most updated version of this project directly on my github repo, please pull from there. For quick reference I have attached the code below:
 ```bash
 #! /bin/bash
 
